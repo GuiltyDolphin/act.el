@@ -5,7 +5,7 @@
 ;; URL: https://github.com/guiltydolphin/act.el
 ;; Git-Repository: git://github.com/guiltydolphin/act.el.git
 ;; Created: 2019-11-19
-;; Version: 0.0.0
+;; Version: 0.1.0
 ;; Keywords: convenience, tools
 ;; Package-Requires: ((dash "2.16.0"))
 
