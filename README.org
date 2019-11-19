@@ -1,0 +1,36 @@
+#+TITLE: act.el -- AcademiC Tools for Emacs
+
+* Synopsis
+
+act.el provides tools for academics working in Emacs.
+
+* Installation
+
+The following installation methods are available:
+
+- [[Manual]]
+
+** Manual
+
+To install act, you need to have the following
+dependencies installed:
+
++ [[https://github.com/magnars/dash.el][dash]]
+
+Once you have set up these dependencies appropriately (and
+they are in your ~load-path~) you can add:
+
+#+BEGIN_SRC emacs-lisp
+(add-to-list 'load-path "/path/to/act.el/directory")
+(require 'act)
+#+END_SRC
+
+To your init file to enable act's functionality for future
+sessions.
+
+* Contributing
+
+** Testing
+
+Before testing, first run =cask install= to ensure the
+appropriate dependencies are installed, then use =make test=.

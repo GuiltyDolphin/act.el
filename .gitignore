@@ -1,0 +1,11 @@
+# Compiled
+
+*.elc
+
+# Packaging
+
+.cask
+
+# Documentation build files
+
+*.html

@@ -1,0 +1,17 @@
+#+TITLE: Changelog
+
+* Unreleased
+
+** Added
+
+- standard development files
+  - =Cask=
+  - =CHANGELOG.org=
+  - =.gitignore=
+  - =LICENSE= (GPLv3)
+  - =Makefile= (with =build= and =test= rules)
+  - =README.org=
+  - =.travis.yml=
+- project-specific development files
+  - =act.el=
+  - =tests/act-tests.el=
